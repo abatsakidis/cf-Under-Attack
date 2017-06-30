@@ -10,7 +10,7 @@ Cloudflare Under Attack Script - Version 1.0
 
 ## Example
 
-./under_attack.sh www.coverme.com enable  -> This will enable under attack mode.
+./under_attack.sh www.coverme.com enable  -> This will enable under attack mode.<br>
 ./under_attack.sh www.coverme.com disable -> This will disable under attack mode and set security level to High.
 
 ## Screenshots
