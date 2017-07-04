@@ -1,4 +1,4 @@
 language: bash
 
 script:
-- ./under_attack.sh
+- ./under_attack.sh mywebsite.com enable
