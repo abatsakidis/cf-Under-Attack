@@ -1,0 +1,4 @@
+language: bash
+
+script:
+- ./under_attack.sh
