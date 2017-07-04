@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/abatsakidis/cf_under_attack.svg?branch=master)](https://travis-ci.org/abatsakidis/cf_under_attack)
+
 ## Description
 
 Cloudflare Under Attack Script - Version 1.0
