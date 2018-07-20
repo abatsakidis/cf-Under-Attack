@@ -7,7 +7,7 @@ Cloudflare Under Attack Script - Version 1.0
 
 ## Usage
 
-* Define your Cloudflare API KEY into the script: CF_API_KEY="e12861ddbebdae3c83c9ada22f2eda9c3b7c3".
+* Define your Cloudflare API KEY into the script: CF_API_KEY="".
 * Define your Cloudflare email address into the script : email=info@underattack.com".
 * Run the script selecting your domain name and enable/disable Under attack.
 
