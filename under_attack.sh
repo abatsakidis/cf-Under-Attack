@@ -9,7 +9,7 @@ echo "     \/                       \/                 \/            \/ "
 echo -e "\033[33;33m                                   Cloudflare Under Attack Script\e[39m"
 echo
 
-CF_API_KEY="e12861ddbebdae3c83c9ada22f2eda9c3b7c3"
+CF_API_KEY=""
 email="info@underattack.com"
 
 function usage()
