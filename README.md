@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/abatsakidis/cf_under_attack.svg?branch=master)](https://travis-ci.org/abatsakidis/cf_under_attack)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb626e1c02d54d1fa479e472edccd2b6)](https://www.codacy.com/app/a.batsakidis/cf_under_attack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/cf_under_attack&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/742445bf63f6436685dfc63c9a083ac1)](https://www.codacy.com/gh/abatsakidis/cf-Under-Attack/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/cf-Under-Attack&amp;utm_campaign=Badge_Grade)
 
 ## Description
 
