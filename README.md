@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/abatsakidis/cf_under_attack.svg?branch=master)](https://travis-ci.org/abatsakidis/cf_under_attack)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/742445bf63f6436685dfc63c9a083ac1)](https://www.codacy.com/gh/abatsakidis/cf-Under-Attack/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/cf-Under-Attack&amp;utm_campaign=Badge_Grade)
 
 ## Description
